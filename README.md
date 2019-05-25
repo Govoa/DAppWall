@@ -1,5 +1,8 @@
 
-<h1 align="center">DAppWall</h1>
+
+<p align="center">
+<img align="center" src="DAppWall.png" width="345" height="294">
+</p>
 <h2> Inspiration </h2>
 
 <p>To create a safe net in the DAppNode</p>
