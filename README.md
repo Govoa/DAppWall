@@ -4,10 +4,7 @@
 
 <p>To create a safe net in the DAppNode</p>
 
-<summary>
-  <b> What it does </b>
-</summary>
-<details>
+  <h2> What it does </h2>
   
 <p>
 The basic functionality of DAppWall is to create a centralized system of access that will be register on a immutable net of nodes from DAppNode at which you could connect to.
@@ -15,7 +12,6 @@ The basic functionality of DAppWall is to create a centralized system of access 
 DAppWall will follow a system of social acceptance where the community will decide which nodes won't go to the black list and which one will. In other words , each node decides which nodes go to its black and white list , this lists will be added to the community one , the one DAppWall will feed from to create its firewall.
 </p>
 
-</details>
 
 <summary>
   <b> How we built it </b>
